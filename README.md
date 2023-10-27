@@ -9,37 +9,36 @@ Dans les lignes suivant serrons décris les étaps a suivre pour cloné le proje
 
 + ### CREATION D'UN ENVIRONMENT VIRTUEL PYTHON
   Un Environnement virtuel permet l'isolation des paquêt et dépéndance d'un projet donné . En python les suivant sont utilisé pour la création de se dernier .
-  1. vérification de l'installeur pip
- ````
- ``` python
- #verifié la verison  du python installer package 
- pip --verison
- ```
- ````
- 2. Si le system de recognais pas la command alors installé  en collant sur votre terminal le code suivant 
-````
-```python
-curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
-python get-pip.py
-```
-````
- 3. Teriminé en vérifiant la version avec la première command 
- 4. Création d'un environment virtuel
-````
-```
-python -m venv monvenv
-```
-````
-5. Activation de l'environment viruel
-````
-```
-monvenv\Scripts\activate
-```
-````
-+ ### Installation des paquêtes et dépendance du projet 
-````
-```
-pip install -r requirement.txt
-```
-````
-'
+   1. vérification de l'installeur pip
+   ````
+   ``` python
+   #verifié la verison  du python installer package 
+   pip --verison
+   ```
+   ````
+   2. Si le system de recognais pas la command alors installé  en collant sur votre terminal le code suivant 
+  ````
+  ```python
+  curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+  python get-pip.py
+  ```
+  ````
+  3. Teriminé en vérifiant la version avec la première command 
+  4. Création d'un environment virtuel
+  ````
+  ```
+  python -m venv monvenv
+  ```
+  ````
+  5. Activation de l'environment viruel
+  ````
+  ```
+  monvenv\Scripts\activate
+  ```
+  ````
+  + ### Installation des paquêtes et dépendance du projet 
+  ````
+  ```
+  pip install -r requirement.txt
+  ```
+  ````
