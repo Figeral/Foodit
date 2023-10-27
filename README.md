@@ -36,6 +36,9 @@ Dans les lignes suivant serrons décris les étaps a suivre pour cloné le proje
   monvenv\Scripts\activate
   ```
   ````
++ ### Git remote add origin
+  Ajouté le repositoire a votre machine local depuis le serveur git
+  ... a continué 
 + ### Installation des paquêtes et dépendance du projet 
   ````
   ```
