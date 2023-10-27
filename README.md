@@ -36,7 +36,7 @@ Dans les lignes suivant serrons décris les étaps a suivre pour cloné le proje
   monvenv\Scripts\activate
   ```
   ````
-  + ### Installation des paquêtes et dépendance du projet 
++ ### Installation des paquêtes et dépendance du projet 
   ````
   ```
   pip install -r requirement.txt
