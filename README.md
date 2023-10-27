@@ -1,9 +1,9 @@
 # Projet-E-commerce-
 Ceci est un repositoire privé ✈️ du project e-commerce 🏫 sous la tutelle de **Mme  MBINZIE 👱‍♀️**consistant à crée un application web de commerce éléctronique.
   Les authors de cette appli sont :
-    1. MOULIOM FITZGERARD 🧑‍🍳
-    2. NGUINA JONAS
-    3. NJOH DONATIEN
+    1. **MOULIOM FITZGERARD 🧑‍🍳**
+    2.** NGUINA JONAS**
+    3.** NJOH DONATIEN**
     
 Dans les lignes suivant serrons décris les étaps a suivre pour cloné le projet a votre repositoire 
 
