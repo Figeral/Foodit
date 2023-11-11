@@ -5,7 +5,7 @@
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-  <title>Simple E-commerce</title>
+  <title>IUT Center</title>
 
 
 </head>
@@ -13,9 +13,9 @@
 <body style="background-color: #B3E5FC;">
 
   {%if request.user.is_authenticated%}
-    {% include "ecom/customer_navbar.html" %}
+  {% include "ecom/customer_navbar.html" %}
   {%else%}
-    {% include "ecom/navbar.html" %}
+  {% include "ecom/navbar.html" %}
   {%endif%}
 
   <center>
