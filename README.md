@@ -24,16 +24,11 @@ Dans les lignes suivant serrons décris les étaps a suivre pour cloné le proje
   ```
   ````
   3. Teriminé en vérifiant la version avec la première command 
-  4. Création d'un environment virtuel
+ 
+  5. Activativé l'environement virtuel intègré
   ````
   ```
-  python -m venv monvenv
-  ```
-  ````
-  5. Activation de l'environment viruel
-  ````
-  ```
-  monvenv\Scripts\activate
+  site\Scripts\activate
   ```
   ````
 + ### Git remote add origin
