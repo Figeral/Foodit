@@ -31,9 +31,13 @@ Dans les lignes suivant serrons décris les étaps a suivre pour cloné le proje
   site\Scripts\activate
   ```
   ````
-+ ### Git remote add origin
++ ### Git clone
   Ajouté le repositoire a votre machine local depuis le serveur git
-  ... a continué 
+   ````
+  ```
+  git clone https://github.com/Figeral/school_project.git
+  ```
+  ````
 + ### Installation des paquêtes et dépendance du projet 
   ````
   ```
